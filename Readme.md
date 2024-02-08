@@ -1,1 +1,1 @@
-This resume made from HTML
+This resume is made from HTML
